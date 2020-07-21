@@ -1,4 +1,4 @@
-# music-order-project
+# music-order-electron
 
 ## Project setup
 ```
