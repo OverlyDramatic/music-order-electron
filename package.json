@@ -16,6 +16,7 @@
   "dependencies": {
     "@types/pouchdb": "^6.4.0",
     "core-js": "^3.6.5",
+    "jsmediatags": "^3.9.3",
     "pouchdb": "^7.2.1",
     "vue": "^2.6.11",
     "vue-class-component": "^7.2.3",
